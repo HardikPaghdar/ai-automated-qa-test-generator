@@ -1,0 +1,8 @@
+{
+  "story": "As a customer, I want to reset my password so I can regain access to my account.",
+  "acceptance_criteria": [
+    "A registered email address is required.",
+    "A valid reset link can be used once and expires after 30 minutes.",
+    "An unknown email address does not reveal whether an account exists."
+  ]
+}
