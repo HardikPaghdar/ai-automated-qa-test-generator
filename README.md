@@ -27,3 +27,9 @@ PY
 
 ## Scope and limitations
 The generator uses deterministic templates; it does not call an LLM, execute the application, or guarantee complete test coverage. Review generated steps and expected results, especially for security, payments, and edge cases. A sensible extension is an optional LLM adapter with schema validation and human approval before exporting to Jira or a test management system.
+
+## Explore more
+
+- [AI Meeting Intelligence Assistant](https://github.com/HardikPaghdar/ai-meeting-intelligence-assistant) — extracts action candidates from text transcripts.
+- [Multi-Agent Software Engineer](https://github.com/HardikPaghdar/multi-agent-software-engineer) — human-supervised task planning.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
